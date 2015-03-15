@@ -1,0 +1,1 @@
+Given a 3d model in Collada format (https://collada.org/mediawiki/index.php/COLLADA_-_Digital_Asset_and_FX_Exchange_Schema), creates a version of said 3d model using LEGO bricks, using the ldraw.org CAD format
